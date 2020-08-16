@@ -1,0 +1,19 @@
+{
+  "name": "projectomod2",
+  "version": "1.0.0",
+  "description": "\"# ProjectoMod2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilsonMarin/ProjectoMod2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilsonMarin/ProjectoMod2/issues"
+  },
+  "homepage": "https://github.com/WilsonMarin/ProjectoMod2#readme"
+}
